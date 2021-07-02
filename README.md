@@ -1,1 +1,1 @@
-# My-Library-of-Miscellaneous-Algorithms
+# My Library of Miscellaneous Algorithms
